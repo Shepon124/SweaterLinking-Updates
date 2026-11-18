@@ -1,0 +1,8 @@
+{
+  "versionCode": 4,
+  "versionName": "2.2.0",
+  "title": "Sweater Linking আপডেট",
+  "releaseNotes": "প্রাথমিক আপডেট সার্ভার সেটআপ। নতুন APK প্রকাশের সময় versionCode বাড়িয়ে এই ফাইল আপডেট করতে হবে।",
+  "apkUrl": "https://github.com/Shepon124/SweaterLinking-Updates/releases/latest/download/SweaterLinking.apk",
+  "forceUpdate": false
+}
